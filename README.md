@@ -7,3 +7,5 @@
 ### 1. Canny edge
 
 ![My_canny_edge](./Image/my_canny_edge.png)
+
+<img src="./Image/my_canny_edge.png"  width="700" height="370">
