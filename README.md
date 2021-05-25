@@ -16,7 +16,7 @@
 
 
 ### 2. Noise removal - Gaussian and Bilateral
-<img src="./Image/gaussian_noise.png"  width="300" height="300"><img src="./Image/my_gaussian.png"  width="300" height="300"><img src="./Image/my_bilateral.png"  width="300" height="300">
+<img src="./Image/gaussian_noise.png"  width="400" height="400"><img src="./Image/my_gaussian.png"  width="400" height="400"><img src="./Image/my_bilateral.png"  width="400" height="400">
 
 
 ### 3. JPEG Compression
